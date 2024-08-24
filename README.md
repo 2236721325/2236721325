@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 擅长的技术：C#全栈，嵌入式，C++
-- 总结：牛马大学生
